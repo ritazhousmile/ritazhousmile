@@ -1,16 +1,30 @@
-## Hi there 👋
+# Rita Zhou's Personal Website
 
-<!--
-**ritazhousmile/ritazhousmile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A clean, modern personal portfolio site showcasing my skills, projects, and background.
 
-Here are some ideas to get you started:
+## 🌐 Live Site
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Visit my website: [ritazhousmile.github.io](https://ritazhousmile.github.io/)
+
+## 🧩 Features
+
+- Responsive design using Tailwind CSS
+- Background in web development and English literature
+- Featured projects section
+- Currently learning section
+- Music player integration
+- Modern UI with gradient backgrounds and interactive elements
+
+## 🛠️ Tech Stack
+
+- HTML5
+- Tailwind CSS
+- JavaScript
+
+## 📝 About
+
+This is my personal portfolio website that shares a bit about my journey from humanities to technology. The site is continuously evolving as I learn and grow in my developer journey.
+
+## 📬 Contact
+
+Feel free to reach out through the contact links on my website! 

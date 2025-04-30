@@ -10,7 +10,10 @@ Web developer with a background in English literature.
 - CS420: Foundations of Programming for Digital Systems (C)
 
 ### Summer 2025
-- CS515: Data Structures and Algorithms 
+- CS515: Data Structures and Algorithms
+- **Certificate study and exam preparation:**
+  - AWS Solutions Architect Associate
+  - Google Cloud Associate Cloud Engineer
 
 ### Fall 2025
 - CS659: Introduction to the Theory of Computation

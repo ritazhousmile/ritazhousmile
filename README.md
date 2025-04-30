@@ -19,5 +19,6 @@ Web developer with a background in English literature.
 - CS659: Introduction to the Theory of Computation
 - CS825: Computer Networks
 - CS861: Programming Language Concepts and Features
+- CS 875 Database Systems
 
 

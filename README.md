@@ -1,24 +1,28 @@
-# Rita Zhou
+# Rita Rand
 
 Web developer with a background in English literature.
+Pursuing a CS master's while self-studying.
 
 🌐 **Website:** [ritazhousmile.github.io](https://ritazhousmile.github.io/)
 
 ## Courses
-- CS415: Introduction to Computer Science I (Python)
-- CS416: Introduction to Computer Science II (Java)
-- CS420: Foundations of Programming for Digital Systems (C)
+- ✅ CS415: Introduction to Computer Science I (Python)
+- ✅ CS416: Introduction to Computer Science II (Java)
+- ✅ CS420: Foundations of Programming for Digital Systems (C)
 
 ### Summer 2025
-- CS515: Data Structures and Algorithms
+- 👩‍💻 CS515: Data Structures and Algorithms
+- 👩‍💻 MIT18.01/18.02: Calculus ([MIT OCW](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/))
+- 👩‍💻 MIT18.06: Linear Algebra ([MIT OCW](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/syllabus/))
+- 👩‍💻 UCB CS61B: Data Structures and Algorithms ([UCB CS61B](https://sp24.datastructur.es/))
 - **Certificate study and exam preparation:**
-  - AWS Solutions Architect Associate
-  - Google Cloud Associate Cloud Engineer
+  - 👩‍💻 AWS Solutions Architect Associate
+  - 👩‍💻 Google Cloud Associate Cloud Engineer
 
 ### Fall 2025
-- CS659: Introduction to the Theory of Computation
-- CS825: Computer Networks
-- CS861: Programming Language Concepts and Features
-- CS875 Database Systems
+- 📅 CS659: Introduction to the Theory of Computation
+- 📅 CS825: Computer Networks
+- 📅 CS861: Programming Language Concepts and Features
+- 📅 CS875 Database Systems
 
 

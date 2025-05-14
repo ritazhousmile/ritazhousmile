@@ -15,6 +15,7 @@ Pursuing a CS master's while self-studying.
 - 👩‍💻 MIT18.01/18.02: Calculus ([MIT OCW](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/))
 - 👩‍💻 MIT18.06: Linear Algebra ([MIT OCW](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/syllabus/))
 - 👩‍💻 UCB CS61B: Data Structures and Algorithms ([UCB CS61B](https://sp24.datastructur.es/))
+- 👩‍💻 MIT Missing Semester ([English](https://missing.csail.mit.edu/2020/) / [中文](https://missing-semester-cn.github.io/))
 - **Certificate study and exam preparation:**
   - 👩‍💻 AWS Solutions Architect Associate
   - 👩‍💻 Google Cloud Associate Cloud Engineer

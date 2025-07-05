@@ -21,10 +21,12 @@ Pursuing a CS master's while self-studying.
   - 👩‍💻 AWS Solutions Architect Associate
   - 👩‍💻 Google Cloud Associate Cloud Engineer
 
+<!--
 ### Fall 2025
 - 📅 CS659: Introduction to the Theory of Computation
 - 📅 CS825: Computer Networks
 - 📅 CS861: Programming Language Concepts and Features
 - 📅 CS875 Database Systems
+-->
 
 

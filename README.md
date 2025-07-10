@@ -17,6 +17,7 @@ Pursuing a CS master's while self-studying.
 - 👩‍💻 UCB CS61B: Data Structures and Algorithms ([UCB CS61B](https://sp24.datastructur.es/))
 - ✅ MIT Missing Semester ([English](https://missing.csail.mit.edu/2020/) / [中文](https://missing-semester-cn.github.io/))
 - ✅ Crash Course Computer Science ([YouTube](https://www.youtube.com/playlist?list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye) / [B站](https://www.bilibili.com/video/BV1EW411u7th/?vd_source=710f326087463c1fee0ad8ace25e70b4))
+- ✅ MySQL for Developers ([PlanetScale](https://planetscale.com/learn/courses/mysql-for-developers))
 - **Certificate study and exam preparation:**
   - 👩‍💻 AWS Solutions Architect Associate
   - 👩‍💻 Google Cloud Associate Cloud Engineer
